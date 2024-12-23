@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/e-invitation/static/css/main.9f2f7a5a.css",
+    "main.js": "/e-invitation/static/js/main.804409ba.js",
+    "static/js/453.40063271.chunk.js": "/e-invitation/static/js/453.40063271.chunk.js",
+    "static/media/wedding_cover.png": "/e-invitation/static/media/wedding_cover.d759315ab83265cadbe9.png",
+    "static/media/8.webp": "/e-invitation/static/media/8.7a450525cda5e431f1eb.webp",
+    "static/media/location.webp": "/e-invitation/static/media/location.907728d51704183fb08e.webp",
+    "static/media/7.webp": "/e-invitation/static/media/7.c12f160d6d1ee311ac8a.webp",
+    "static/media/2.webp": "/e-invitation/static/media/2.4ca22e615d2655464ac9.webp",
+    "static/media/15.webp": "/e-invitation/static/media/15.9856e8c68bbd4511adf6.webp",
+    "static/media/cover.webp": "/e-invitation/static/media/cover.a4d8286d30f018c140a4.webp",
+    "static/media/3.webp": "/e-invitation/static/media/3.90b6dba0cb71b951f231.webp",
+    "static/media/6.webp": "/e-invitation/static/media/6.ecf8acf899368f5ffcad.webp",
+    "static/media/14.webp": "/e-invitation/static/media/14.702faba23707bf253c2d.webp",
+    "static/media/13.webp": "/e-invitation/static/media/13.deca1056440e53612f4c.webp",
+    "static/media/4.webp": "/e-invitation/static/media/4.5ada067bfc3c53b33dd8.webp",
+    "static/media/10.webp": "/e-invitation/static/media/10.f40102b5097cb551d3aa.webp",
+    "static/media/12.webp": "/e-invitation/static/media/12.a11f6fe69126ae46d6bf.webp",
+    "static/media/11.webp": "/e-invitation/static/media/11.3d81e32c4209fa3ee374.webp",
+    "static/media/1.webp": "/e-invitation/static/media/1.e86b7c159978aa339480.webp",
+    "static/media/wedding_cover_two.jpeg": "/e-invitation/static/media/wedding_cover_two.1af526da0437bff76054.jpeg",
+    "static/media/9.webp": "/e-invitation/static/media/9.27a79ab3b0fe901c9391.webp",
+    "index.html": "/e-invitation/index.html",
+    "static/media/angle-left-sm.svg": "/e-invitation/static/media/angle-left-sm.658033af14cebbe2d43a80f11c7358ee.svg",
+    "main.9f2f7a5a.css.map": "/e-invitation/static/css/main.9f2f7a5a.css.map",
+    "main.804409ba.js.map": "/e-invitation/static/js/main.804409ba.js.map",
+    "453.40063271.chunk.js.map": "/e-invitation/static/js/453.40063271.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f2f7a5a.css",
+    "static/js/main.804409ba.js"
+  ]
+}
